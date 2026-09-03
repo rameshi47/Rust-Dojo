@@ -1,0 +1,24 @@
+# Rust Dojo Log
+
+2026
+
+Started learning Rust.
+
+Learned:
+- Variables
+- Functions
+- Ownership
+- References
+- Borrowing
+
+Important Lesson:
+
+&     -> Create reference
+&mut  -> Mutable reference
+*     -> Access value through reference
+
+Reason for References:
+
+- Share data
+- Avoid unnecessary copies
+- Allow modification through functions
